@@ -1,0 +1,312 @@
+﻿/*.head {
+    height: 20px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    text-align: center;
+    background-image: url('images/228407-old-paper-background.jpg');
+}*/
+
+ /*   .head ul {
+    padding: 0px 5px 0px 5px;
+    margin: 0px;
+    text-align: center;
+    height: 100%;
+    width: 100%;
+}*/
+    .name img {
+    padding: 0px;
+    margin: 0px;
+    height: 120%;
+    width: 10%;
+    float: left;
+}
+
+.work {
+    float: left;
+    width: 64%;
+    height: 450px;
+    margin-right: 0px;
+    overflow: auto;
+    scrollbar-3dlight-color: #FF3300;
+    scrollbar-arrow-color: #FF3300;
+    scrollbar-base-color: #333333;
+    scrollbar-darkshadow-color: black;
+    background-color:white;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+.cl1 {
+    display:inline;
+}
+
+.cal {
+    float: left;
+    margin-left:5px;
+    }
+
+.side {
+    margin-left: 10px;
+    height: 450px;
+     background-color:white;
+    background-size:cover;
+    overflow:auto;
+    width:30%;
+    float:left;
+}
+
+.footer {
+    margin: 5px 2px 2px 2px;
+    height: 25px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman' , serif;
+    font-size: small;
+    font-weight: normal;
+    font-style: normal;
+    font-variant: small-caps;
+    text-align: center;
+    clear: both;
+     background-color:white;
+}
+
+.news {
+    border-width: 2px;
+    border-color: #FFFFFF;
+    padding: 15px;
+    list-style-type: none;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman' , serif;
+    font-size: medium;
+    font-weight: bold;
+    border-bottom-style: dashed;
+}
+
+/*.head li {
+    border: 2px solid #663300;
+    padding: 0px 6px 0px 0px;
+    float: left;
+    list-style-type: none;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman' , serif;
+    font-size: 20px;
+    font-weight: bold;
+    text-transform: uppercase;
+    border-radius: 20px;
+    -webkit-border-radius: 20px;
+    -webkit-border-radius: 20px;
+    text-align: center;
+    box-shadow: rgba(168, 84, 24,0.5) 0px 0px 8px;
+    -webkit-box-shadow: rgba(168, 84, 24,0.5) 0px 0px 8px;
+    -moz-box-shadow: rgba(168, 84, 24,0.5) 0px 0px 8px;
+}
+
+    .head li:hover {
+    background-color: #663300;
+    box-shadow:rgba(0,0,0,0.5) 0px 0px 8px;
+        -webkit-box-shadow:rgba(0,0,0,0.5) 0px 0px 8px;
+        -moz-box-shadow:rgba(0,0,0,0.5) 0px 0px 8px;
+}
+
+.head a {
+    text-transform: uppercase;
+    text-decoration: none;
+    color: #000000;
+}
+
+    .head a:hover {
+    color: #666666;
+}*/
+
+.work a {
+    text-decoration: none;
+}
+
+table {
+    margin: 10px 0px;
+    padding: 10px;
+    text-align: left;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: medium;
+    font-weight: bold;
+    font-variant: normal;
+    text-transform: capitalize;
+}
+
+.fs {
+}
+
+    .fs h1 {
+        text-transform: uppercase;
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+        font-size: 25px;
+    }
+
+    .fs p {
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+        font-size: 20px;
+    }
+th {
+    text-align: center;
+    text-decoration: underline;
+    text-transform: uppercase;
+    font-weight: bold;
+    padding:5px;
+}
+.user {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman' , serif;
+    font-size: medium;
+    font-weight: bold;
+    text-transform: uppercase;
+    position: relative;
+}
+.name {
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: large;
+    text-align: center;
+    height: 37px;
+    background-color: white;
+    margin-bottom: 5px;
+}
+.adlog {
+    padding: 5px;
+    margin: 5px;
+}
+.clog {
+    padding: 5px;
+    margin: 5px;
+}
+.tables
+{   border:1px solid sandybrown;
+	margin:0 auto;
+	width:600px;
+}
+.even {
+    background-color:sandybrown;
+    color: #000000;
+}
+.odd {
+    background-color:saddlebrown;
+    color: #000000;
+}
+menu {
+    border: thin solid chocolate;
+}
+#date{
+font-family:"Telex";
+color:white;
+text-align: center;
+//font-weight: bold;
+
+}
+
+.chart {
+    clear: both;
+    align-content: space-around;
+    margin-right: 50px;
+    margin-left: 50px;
+}
+.work li {
+    border-width: thin;
+    padding: 15px;
+    list-style-type: circle;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: medium;
+    font-weight: bold;
+    border-bottom-style: dotted;
+
+}
+
+.input {
+    margin: 5px;
+    box-shadow: rgba(168, 84, 24,0.5) 0px 0px 8px;
+    -webkit-box-shadow: rgba(168, 84, 24,0.5) 0px 0px 8px;
+    -moz-box-shadow: rgba(168, 84, 24,0.5) 0px 0px 8px;
+    border-radius: 20px;
+    text-align:center;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    height: 20px;
+}
+.input:hover{
+        box-shadow:rgba(0,0,0,0.5) 0px 0px 8px;
+        -webkit-box-shadow:rgba(0,0,0,0.5) 0px 0px 8px;
+        -moz-box-shadow:rgba(0,0,0,0.5) 0px 0px 8px;
+    }
+/*.button {
+    margin: 10px;
+    background-color: #06213F;
+    border-radius: 20px;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    box-shadow: 0 1px 0 0 silver;
+    -webkit-box-shadow: 0 1px 0 0 silver;
+    -moz-box-shadow: 0 1px 0 0 silver;
+    font-weight: bold;
+    padding: 6px 20px;
+    text-align: center;
+    color: #FFFFFF;
+}*/
+    /*.button:hover {
+        opacity:.85;
+        cursor:pointer;
+    }*/
+*:focus {
+    outline:none;
+}
+checkbox {
+    
+}
+li {
+    text-align:center;
+}
+
+tab {
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.validate {
+    font-size: small;
+    color: #990000;
+}
+.stuimg {
+    float: left;
+    width: 200px;
+    height: 200px;
+}
+.head a:active {
+    background-color:chocolate;
+}
+
+::-webkit-scrollbar-track {
+    background-color:chocolate;
+}
+::-webkit-scrollbar-thumb {
+      background-color: rgba(0, 0, 0, 0.2); 
+} 
+.pagination {
+            font-size: 80%;
+        }
+
+.pagination a {
+    text-decoration: none;
+    border: solid 1px #AAE;
+    color: #15B;
+}
+
+.pagination a, .pagination span {
+    display: block;
+    float: left;
+    padding: 0.3em 0.5em;
+    margin-right: 5px;
+    margin-bottom: 5px;
+}
+
+.pagination .current {
+    background: #26B;
+    color: #fff;
+    border: solid 1px #AAE;
+}
+
+.pagination .current.prev, .pagination .current.next{
+    color:#999;
+    border-color:#999;
+    background:#fff;
+}
