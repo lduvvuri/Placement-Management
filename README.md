@@ -1,5 +1,5 @@
 # Placement-Management
-An Asp.NET web portal designed and developed at KMIT for the use of the Placement administrator, current students and companies visiting campus.
+An Asp.NET web portal designed and developed for the use of the Placement administrator, current students and companies visiting campus.
 Three user roles are defined respectively with their separate logins. 
 
 #Company Login
